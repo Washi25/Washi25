@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-My name is Wash, I am a Settlements analyst in the Energy industry.
+My name is Wash, and I am a Settlements Analyst in the energy industry.
 
-I’m currently working and learning on in improving my MATLAB skills in my free time.
-Your wondering why MATLAB???...MATLAB is and was the first proper engineering programming language that I used during my degree.
-I enjoyed it so much that I used MATLAB for my dissertation which was based on "The Technical Analysis of Hydrogen Engines".
-This project was a very analytical project which drove me into becoming analyst within the energy industry.
-I started of an Operations analyst and transitioned into Settlement analsyt role.
+In my free time, I am currently working on improving my MATLAB skills. Why MATLAB? It was the first engineering programming language I learned and used during my degree, and I quickly developed a strong interest in it.
 
-From current role and this side project/hobby I would like to combine the skills I have gained into energy engineering
+I enjoyed using MATLAB so much that I based my dissertation on “The Technical Analysis of Hydrogen Engines,” where MATLAB played a key role in the analytical aspects of the project. This experience helped drive my interest in analysis and ultimately led me toward a career within the energy industry.
+
+I began my career as an Operations Analyst before transitioning into a Settlements Analyst role. Through my current role and my continued MATLAB learning projects, I hope to combine the analytical and technical skills I have gained to progress further into energy engineering.
